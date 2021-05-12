@@ -1,4 +1,6 @@
-### Merhaba Ben Yağmur Delice 👋
+### Merhaba👋 Ben Yağmur Delice
+
+Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek ile  dünyayı daha iyi bir yer haline getirmeye çalışıyorum. İlgi alanlarım Siber Güvenlik  yapay zeka ,makine öğrenimi ve yazılım ile ilgileniyorum. 
 
 <!--
 **deliceyagmur/deliceyagmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
