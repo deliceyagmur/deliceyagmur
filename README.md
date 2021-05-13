@@ -4,7 +4,7 @@ Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek 
 
 <h3>Siber Güvenlik Katıldığım Etkinlikler</h3>
 
-<h6>-2021-7may- Python: Sıfırdan İleri Seviyeye – Etik Hacker Örnekleriyle </h6>
+<h6>-2021-7may- Python: Sıfırdan İleri Seviyeye – Etik Hacker Örnekleriyle 
 -2021-6may- Privacy and Information Security Management
 -2021-20apr-SOC Analyst Level 1 Career Path – Cybrary
 -2021-5subt Problem Solving(basic) - HackerRank
@@ -27,7 +27,7 @@ Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek 
 -2020 THE BITS AND BYTES OF COMPUTER NETWORKING – GOOGLE 
 -2020 TECHNICAL SUPPORT FUNDAMENTALS – GOOGLE 
 -2019 DATABASE DESIGN AND PROGRAMMING WITH SQL – ORACLE ACADEMY
--2018 VERI TABANI YÖNETIMI-SQL EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI
+-2018 VERI TABANI YÖNETIMI-SQL EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI </h6>
  
 
 
