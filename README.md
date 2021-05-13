@@ -57,7 +57,8 @@ Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek 
 <h6>2018 NESNEYE DAYALI PROGRAMLAMA-C# EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI </h6>
 <h6>2018 NESNEYE DAYALI PROGRAMLAMA-JAVA EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI</h6>
 
-<img src="https://e1.pngegg.com/pngimages/378/110/png-clipart-button-ui-system-icons-mail-mail-icon-art.png"><h4>yagmur.delice@gmail.com </h4>
+<img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="100"><i>yagmur.delice@gmail.com </i>
+
 
 
 
