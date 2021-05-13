@@ -1,7 +1,7 @@
 - 💬 Hakkımda ...
 ### Merhaba👋 Ben Yağmur Delice
 
-Bilgisayar mühendisliği lisans mezunuyum.Kendimi Siber Güvenlik , Yapay zeka ,Makine öğrenimi Ve Yazılım alanlarında geliştiriyorum.
+Bilgisayar mühendisliği lisans mezunuyum. Kendimi Siber Güvenlik, Makine Öğrenimi, Yapay Zeka ve Yazılım alanlarında geliştiriyorum.
 
 <h3>Siber Güvenlik Katıldığım Etkinlikler</h3>
 
