@@ -2,7 +2,7 @@
 
 Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek ile  dünyayı daha iyi bir yer haline getirmeye çalışıyorum. İlgi alanlarım Siber Güvenlik , yapay zeka ,makine öğrenimi ve yazılım ile ilgileniyorum. 
 
-<h6>Siber Güvenlik Sertifikaları Ve Katıldığım Etkinlikleri</h6>
+<h3>Siber Güvenlik Sertifikaları Ve Katıldığım Etkinlikleri</h3>
 
 
 
