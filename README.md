@@ -4,7 +4,7 @@ Bilgisayar mühendisliği lisans mezunuyum.Kendimi değiştirme ve geliştirmek 
 
 <h3>Siber Güvenlik Katıldığım Etkinlikler</h3>
 
--2021-7may- Python: Sıfırdan İleri Seviyeye – Etik Hacker Örnekleriyle
+<h6>-2021-7may- Python: Sıfırdan İleri Seviyeye – Etik Hacker Örnekleriyle </h6>
 -2021-6may- Privacy and Information Security Management
 -2021-20apr-SOC Analyst Level 1 Career Path – Cybrary
 -2021-5subt Problem Solving(basic) - HackerRank
