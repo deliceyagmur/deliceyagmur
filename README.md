@@ -21,17 +21,8 @@ Bilgisayar mühendisliği lisans mezunuyum. Kendimi Siber Güvenlik, Makine Öğ
 <h6>2021 3 Ocak Herkes için Yapay Zeka I</h6>
 <h6>2021 Problem Solving (Basic) Certificate</h6>
 <h6>2021 Python (Basic) Certificate</h6>
-<h6>2020-Digital Data Science Summit - Youthall</h6>
-<h6>2020 Computer Vision - Object Tracking with OpenCV and Python</h6>
-<h6>2020 Pandas Python Library for Beginners in Data Science</h6>
-<h6>2020 Create a Memory Puzzle Game in Python Using Pygame</h6>
-<h6>2020-22oct PCAP: Programming Essentials in Python</h6>
-<h6>2020 ONLINE YAPAY ZEKAYI ANLAMA – BAHÇEŞEHIR ÜNIVERSITESI VE WISSEN AKADEMIE </h6>
-<h6>2020 INTRODUCTION TO PYTHON PROGRAMMING – GLOBAL AI HUB</h6>
-<h6>2019 DATABASE DESIGN AND PROGRAMMING WITH SQL – ORACLE ACADEMY</h6>
-<h6>2018 VERI TABANI YÖNETIMI-SQL EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI</h6>
-<h6>2018 NESNEYE DAYALI PROGRAMLAMA-C# EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI </h6>
-<h6>2018 NESNEYE DAYALI PROGRAMLAMA-JAVA EĞITIMI – ELGINKAN VAKFI UZAKTAN EĞITIM MERKEZI</h6>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deliceyagmur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="100"><i>yagmur.delice@gmail.com </i>
 
