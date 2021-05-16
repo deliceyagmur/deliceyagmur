@@ -1,6 +1,6 @@
                                                        - 💬 Hakkımda ...
 <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&#160;&#160;&#160;
- Merhaba👋 Ben Yağmur Delice</h1>
+ Merhaba👋 Ben Yağmur Delice 👩🏻‍💻 </h1>
 
 
 
