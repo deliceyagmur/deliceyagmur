@@ -16,6 +16,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=deliceyagmur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+ <img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="100"><a href="https://medium.com/@delice.yagmur/about"><i>Medium Yazılarım </i>
+  
 <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="100"><i>yagmur.delice@gmail.com </i>
 
 
