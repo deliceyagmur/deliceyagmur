@@ -16,7 +16,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=deliceyagmur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+ <a href="https://deliceyagmur.github.io/"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-cv-cv-resume-flatart-icons-outline-flatarticons.png"><i>Online Cv'im </i></a>
   
+
+
 <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" width="100"><i>yagmur.delice@gmail.com </i>
 
 
